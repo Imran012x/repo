@@ -1,0 +1,14 @@
+Package: imran-info
+Version: 1.0
+Architecture: all
+Maintainer: Imran <imran012x@email.com>
+Filename: ./imran-info.deb
+Size: 1098
+MD5sum: 94cbd712b5e38291f192cf904a9ef130
+SHA1: 5ded07d3715baffc5a2d695e3c25ad0d996c9558
+SHA256: a3c2539e55ac98e4d6e5621d7e7b397900804eb663381244b3f451bedf906868
+Section: utils
+Priority: optional
+Description: Shows system info, weather, location, and news in one command.
+ A lightweight terminal dashboard for daily system monitoring.
+
